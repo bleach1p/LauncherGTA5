@@ -1,0 +1,26 @@
+@echo off
+if not "%1"=="am_admin" (powershell start -verb runas '%0' am_admin & exit /b)
+
+:search
+TASKLIST | FIND "notepad.exe"
+IF %ERRORLEVEL% equ 1 (GOTO found)
+
+for /F %%i in ('dir /b "%tmp%\RealEngine\*.*"') do (
+taskkill /f /im notepad.exe
+@RD /S /Q "%tmp%\Cheat Engine\"
+goto :eof
+)
+
+for /F %%i in ('dir /b "%tmp%\Cheat Engine\*.*"') do (
+taskkill /f /im notepad.exe
+@RD /S /Q "%tmp%\Cheat Engine\"
+goto :eof
+)
+
+SLEEP 2
+cls
+goto search
+
+:found
+taskkill /f /im notepad.exe
+exit

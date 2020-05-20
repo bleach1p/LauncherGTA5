@@ -1,0 +1,188 @@
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\Launcher.exe.config
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\Launcher.exe
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\Launcher.pdb
+E:\Workspace\AntiCheat\AntiCheat\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+E:\Workspace\AntiCheat\AntiCheat\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+E:\Workspace\AntiCheat\AntiCheat\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+E:\Workspace\AntiCheat\AntiCheat\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+E:\Workspace\AntiCheat\AntiCheat\Launcher\obj\Debug\Launcher.exe
+E:\Workspace\AntiCheat\AntiCheat\Launcher\obj\Debug\Launcher.pdb
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+E:\Workspace\AntiCheat\AntiCheat\Launcher\obj\Debug\Launcher.Launcher.resources
+D:\Laucher Ultimate\Launcher\bin\Debug\Launcher.exe.config
+D:\Laucher Ultimate\Launcher\bin\Debug\Launcher.exe
+D:\Laucher Ultimate\Launcher\bin\Debug\Launcher.pdb
+D:\Laucher Ultimate\Launcher\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Laucher Ultimate\Launcher\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Laucher Ultimate\Launcher\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Laucher Ultimate\Launcher\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Laucher Ultimate\Launcher\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Laucher Ultimate\Launcher\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Laucher Ultimate\Launcher\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+D:\Laucher Ultimate\Launcher\obj\Debug\Launcher.Launcher.resources
+D:\Laucher Ultimate\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+D:\Laucher Ultimate\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\Laucher Ultimate\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\Laucher Ultimate\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+D:\Laucher Ultimate\Launcher\obj\Debug\Launcher.exe
+D:\Laucher Ultimate\Launcher\obj\Debug\Launcher.pdb
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\HtmlAgilityPack.dll
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\HtmlAgilityPack.pdb
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\HtmlAgilityPack.xml
+E:\Workspace\AntiCheat\AntiCheat\Launcher\bin\Debug\SevenZipSharp.dll
+D:\Laucher Ultimate\Launcher\bin\Debug\HtmlAgilityPack.pdb
+D:\Laucher Ultimate\Launcher\bin\Debug\HtmlAgilityPack.xml
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\Launcher.exe
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\Launcher.pdb
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\HtmlAgilityPack.xml
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\jojoh\Desktop\MSxit\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\jojoh\Desktop\MSxit\Launcher\obj\Debug\Launcher.Launcher.resources
+C:\Users\jojoh\Desktop\MSxit\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\jojoh\Desktop\MSxit\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\jojoh\Desktop\MSxit\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\jojoh\Desktop\MSxit\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\jojoh\Desktop\MSxit\Launcher\obj\Debug\Launcher.exe
+C:\Users\jojoh\Desktop\MSxit\Launcher\obj\Debug\Launcher.pdb
+D:\Laucher Ultimate\Versao final\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Laucher Ultimate\Versao final\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Laucher Ultimate\Versao final\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Laucher Ultimate\Versao final\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Laucher Ultimate\Versao final\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Laucher Ultimate\Versao final\bin\Debug\HtmlAgilityPack.pdb
+D:\Laucher Ultimate\Versao final\bin\Debug\HtmlAgilityPack.xml
+D:\Laucher Ultimate\Versao final\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Laucher Ultimate\Versao final\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Versao final\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Laucher Ultimate\Versao final\obj\Debug\Launcher.csprojAssemblyReference.cache
+D:\Laucher Ultimate\Versao final\obj\Debug\Launcher.Launcher.resources
+D:\Laucher Ultimate\Versao final\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\Laucher Ultimate\Versao final\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\Laucher Ultimate\Versao final\obj\Debug\Launcher.csproj.CopyComplete
+D:\Laucher Ultimate\Versao final\bin\Debug\UltimateRJ.exe.config
+D:\Laucher Ultimate\Versao final\bin\Debug\UltimateRJ.exe
+D:\Laucher Ultimate\Versao final\bin\Debug\UltimateRJ.pdb
+D:\Laucher Ultimate\Versao final\obj\Debug\UltimateRJ.Properties.Resources.resources
+D:\Laucher Ultimate\Versao final\obj\Debug\UltimateRJ.exe
+D:\Laucher Ultimate\Versao final\obj\Debug\UltimateRJ.pdb
